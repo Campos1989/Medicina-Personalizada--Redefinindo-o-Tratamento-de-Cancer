@@ -1,4 +1,4 @@
- Medicina Personalizada - Redefinindo o Tratamento de Cancer
+ ## Medicina Personalizada - Redefinindo o Tratamento de Cancer
  
 Muito tem sido dito durante os últimos anos sobre como a medicina de precisão e, mais concretamente, como o teste genético, vai provocar disrupção no tratamento de doenças como o câncer.
 
