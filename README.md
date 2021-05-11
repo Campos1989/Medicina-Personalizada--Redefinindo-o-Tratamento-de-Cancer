@@ -11,3 +11,6 @@ Atualmente, esta interpretação de mutações genéticas está sendo feita manu
 Para este projeto, o MSKCC (Memorial Sloan Kettering Cancer Center) está disponibilizando uma base de conhecimento anotada por especialistas, onde pesquisadores e oncologistas de nível mundial anotaram manualmente milhares de mutações.
 
 Neste projeto, será desenvolvido um algoritmo de Aprendizado de Máquina que, usando essa base de conhecimento como uma linha de base, classifica automaticamente as variações genéticas.
+
+O dataset pode ser encontrado em:
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
